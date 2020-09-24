@@ -2,7 +2,7 @@
 # Residual Spatial Attention Network for Retinal Vessel Segmentation
 This code is for the paper: Residual Spatial Attention Network for Retinal Vessel Segmentation. We report state-of-the-art performances on DRIVE and CHASE DB1 datasets.
 
-Code written by Changlu Guo, University of Oulu.
+Code written by Changlu Guo, Budapest University of Technology and Economics(BME).
 
 
 We train and evaluate on Ubuntu 16.04, it will also work for Windows and OS.
