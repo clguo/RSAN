@@ -21,14 +21,14 @@ Keras 2.3.1  <br>
 Tensorflow==1.14.0 <br>
 
 
-##If you are inspired by our work, please cite this paper.
+## If you are inspired by our work, please cite this paper.
 
-@misc{guo2020residual,
-    title={Residual Spatial Attention Network for Retinal Vessel Segmentation},
-    author={Changlu Guo and Márton Szemenyei and Yugen Yi and Wei Zhou and Haodong Bian},
-    year={2020},
-    eprint={2009.08829},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@misc{guo2020residual, <br>
+    title={Residual Spatial Attention Network for Retinal Vessel Segmentation}, <br>
+    author={Changlu Guo and Márton Szemenyei and Yugen Yi and Wei Zhou and Haodong Bian}, <br>
+    year={2020}, <br>
+    eprint={2009.08829}, <br>
+    archivePrefix={arXiv}, <br>
+    primaryClass={eess.IV} <br>
 }
 
