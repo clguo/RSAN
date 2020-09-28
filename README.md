@@ -15,6 +15,10 @@ Run train_drive.py or train_chase.py
 Test:
 Run eval_drive.py or eval_chase.py
 
+## Results
+
+![Results](5.png?raw=true "Results")
+Row 1 is for DRIVE dataset. Row 2 is for CHASE DB1 dataset. (a) Color fundus images, (b) segmentation results of Backbone, (c) segmentation results of Backbone+DropBlock, (d) segmentation results of RSAN, (e) corresponding ground truths.
 
 ## Environments
 Keras 2.3.1  <br>
