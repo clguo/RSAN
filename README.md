@@ -1,5 +1,5 @@
 ![RSAN](1.png?raw=true "RSAN")
-# [Residual Spatial Attention Network for Retinal Vessel Segmentation](https://arxiv.org/abs/2009.08829)
+# [Residual Spatial Attention Network for Retinal Vessel Segmentation(ICONIP2020)](https://arxiv.org/abs/2009.08829)
 This code is for the paper: Residual Spatial Attention Network for Retinal Vessel Segmentation. We report state-of-the-art performances on DRIVE and CHASE DB1 datasets.
 
 Code written by Changlu Guo, Budapest University of Technology and Economics(BME).
