@@ -7,10 +7,12 @@ Code written by Changlu Guo, Budapest University of Technology and Economics(BME
 
 We train and evaluate on Ubuntu 16.04, it will also work for Windows and OS.
 
-## Spatial Attention 
+## Spatial Attention (SA)
+Spatial Attention (SA) was introduced as a part of the convolutional block attention module for classification and detection. SA employs the inter-spatial relationship between features to produce a spatial attention map, the code can be found in [attention_module.py](attention_module.py).
 ![SA](2.png?raw=true "SA")
 
-## Residual Spatial Attention Block
+## Residual Spatial Attention Block (RSAB)
+In this paper, we proposed RSAB, because it integrates DropBlock to prevent overfitting and the advantages of spatial attention, we believe it has great potential in the field of medical image processing for building deep networks even for processing small data sets .
 ![RSAB](4.png?raw=true "RSAB")
 
 
