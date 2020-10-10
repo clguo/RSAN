@@ -20,10 +20,10 @@ In this paper, we proposed RSAB, because it integrates DropBlock to prevent over
 ## Quick start 
 
 Train:
-Run train_drive.py or train_chase.py
+Run [train_drive.py](train_drive.py) or [train_chase.py](train_chase.py)
 
 Test:
-Run eval_drive.py or eval_chase.py
+Run [eval_drive.py](eval_drive.py) or [eval_chase.py](eval_chase.py)
 
 ## Results
 
